@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Volumes/sameer/data/trial/10/filtered'
+let g:netrw_dirhist_2='/Volumes/sameer/stats'
+let g:netrw_dirhist_3='/Volumes/sameer/log-tools'
+let g:netrw_dirhist_4='/Volumes/sameer/install-lxr/lxr'
+let g:netrw_dirhist_5='/Volumes/sameer/install-lxr/lxr/custom.d'
+let g:netrw_dirhist_6='/Volumes/sameer/src/netcat-0.7.1/src'
+let g:netrw_dirhist_7='/Users/spatel78745/m87/moe/LGD016'
+let g:netrw_dirhist_8='/Users/spatel78745/java'
