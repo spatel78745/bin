@@ -1,3 +1,5 @@
 #!/bin/bash
+
+# Shows the menu bar Windows style instead of Mac style in Unity
 UBUNTU_MENUPROXY=0 ~/eclipse/eclipse
 
